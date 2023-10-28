@@ -10,5 +10,7 @@ public class ApplicationConstant {
 	public static final String EXCEPTION_MSG="exception occured while working";
 	// for new exception
 	public static final String EXCEPTION_MSG1="exception occured while working";
+	// for unhandled exception
+	public static final String EXCEPTION_MSG2="exception occured while working";
 	
 }
