@@ -7,4 +7,5 @@ public class ApplicationConstant {
 	public static final String FAILED_TO_SAVE="failedSave";
 	// error message added
 	public static final String ERROR_MESSAGE="error occured while saving";
+	public static final String EXCEPTION_MSG="exception occured while working";
 }
