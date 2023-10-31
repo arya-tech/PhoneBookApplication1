@@ -11,6 +11,7 @@ public class ApplicationConstant {
 	// for new exception
 	public static final String EXCEPTION_MSG1="exception occured while working";
 	// for unhandled exception this msg should be used
+	// for unhandled exception this is the second line i have added
 	public static final String EXCEPTION_MSG2="exception occured while working";
 	
 }
